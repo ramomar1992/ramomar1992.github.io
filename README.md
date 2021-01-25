@@ -17,6 +17,7 @@ If you have a growth mindset, you will think of a challenge as an opportunity to
 <br>
 * Obstacles
 <br>
+
 A fixed mindset believes that obstacles are where you should give up and leave tasks unsolved. In contrast, with a growth mindset, you will break these obstacles and pave the way for your advancement peacefully, focusing on your goals, not the obstacles themselves.
 <br>
 <br>

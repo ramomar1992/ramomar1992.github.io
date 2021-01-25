@@ -21,6 +21,16 @@ A fixed mindset believes that obstacles are where you should give up and leave t
 <br>
 <br>
 <br>
+# Three simple reminders to become more productive: <br>
+- [x] Remember that "No pain, no gain" and never lose your momentum over any obstacle you face.
+- [x] Play big, set goals, and stay disciplined.
+- [x] Focus on what is important, then make your actions, and leave all nonsense away.
+<br>
+<br>
+<br>
 [Here is a link to a full blog to read more about how your professional life changes when you start adopting a growth mindset approach!](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+<br>
+<br>
+<br>
 <br>
 ![Qoute to success!!!](https://www.fearlessmotivation.com/wp-content/uploads/2016/07/growth-mindset-quotes.jpg)

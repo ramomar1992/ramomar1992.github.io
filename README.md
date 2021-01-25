@@ -11,6 +11,8 @@ Writing code and cooperating with other developers is now the part of my life th
 The growth mindset is the ability to manage your personal and professional life problems with a more creative and problem-solving way of thinking. The opposite of a growth mindset is the fixed mindset, which leaves people with self-doubt and frustration upon any problem they face. Let us compare these two mindsets from the perspective of different aspects of life:
 <br>
 1. Challanges
+<br>
+
 If you have a growth mindset, you will think of a challenge as an opportunity to develop your skills and the ability to think more creatively about different problems then solve them with confidence.
 <br>
 2. Obstacles

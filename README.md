@@ -1,4 +1,4 @@
-# Omar Ramadan  
+#                                          Omar Ramadan  
 
 Welcome to my webpage. I will tell you a bit about myself. I graduated with a medical science bachelor's degree and worked in a hospital right after graduation. 
 <br> Five years later, I realized that I do not like what I do. And to be successful at what you do, you have to love it. I turned my interest to software development a year ago, and I started learning from the very basics.

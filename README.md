@@ -13,7 +13,7 @@ Writing code and cooperating with other developers is now the part of my life th
 Lab name | Links
 ---------|---------
 Lab 02a: learning markdown | [Growth mindset](lab02a.md)
-Reading 03a: Structure web pages with HTML | [Structure web pages with HTML](Read%2003a%20Structure%20web%20pages%20with%20HTML.md)
+Reading 03a: Structure web pages with HTML | [Structure web pages with HTML](read03aDesignYourPage.md)
 
 
 

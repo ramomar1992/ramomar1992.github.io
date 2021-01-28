@@ -74,8 +74,9 @@ do{
     statements to execute;
 } while ( <em>condition</em> );
 
+```
 
-
-And | for | now
---- | --- | ---
-set | don | les
+And | for | now | low | low
+--- | --- | --- | --- | ---
+set | don | les | lsa | lsa
+abc | dee | sda | dsa | xcz

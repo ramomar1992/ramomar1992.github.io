@@ -2,7 +2,7 @@
 ## <u>Logical operators:</u>
 
 In JavaScript, there are three main logical operators that can be used in conditional checking; these are the logical AND(&&), the logical OR(||), and the logical NOT(!). Each one of these operators works differently from the others. <br>
- A     | B     | A AND B | A OR B | Not A
+ A     | B     | A AND B | A OR B | NOT A
 ------ | ----- | ------- | ------ | -----
  true  | true  | true    | true   | false  
  true  | false | false   | ture   | false  
@@ -73,3 +73,9 @@ Last but not lease, the <em>Do While loop</em>. This loop ensures that the code 
 do{
     statements to execute;
 } while ( <em>condition</em> );
+
+
+
+And | for | now
+--- | --- | ---
+set | don | les

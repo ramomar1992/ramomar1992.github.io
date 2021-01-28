@@ -76,7 +76,7 @@ do{
 
 ```
 
-And | for | now | low | low
---- | --- | --- | --- | ---
-set | don | les | lsa | lsa
-abc | dee | sda | dsa | xcz
+| And | for | now | low | low |
+| --- | --- | --- | --- | --- |
+| set | don | les | lsa | lsa |
+| abc | dee | sda | dsa | xcz |

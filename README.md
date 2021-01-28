@@ -15,14 +15,4 @@ Lab name | Links
 Lab 02a: learning markdown | [Growth mindset](lab02a.md)
 Reading 03a: Structure web pages with HTML | [Structure web pages with HTML](read03aDesignYourPage.md)
 Reding 04: Introduction to JavaScript | [JavaScript and Script writing](read04.md)
-
-
-
-
-
-
-
-
-
-
-
+Reading 05: Decision making and Looping | [If statements and Loops](reading05.md)

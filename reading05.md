@@ -2,12 +2,12 @@
 ## <u>Logical operators:</u>
 
 In JavaScript, there are three main logical operators that can be used in conditional checking; these are the logical AND(&&), the logical OR(||), and the logical NOT(!). Each one of these operators works differently from the others. <br>
- A     | B     | A AND B | A OR B | NOT A
------- | ----- | ------- | ------ | -----
- true  | true  | true    | true   | false  
- true  | false | false   | ture   | false  
- false | true  | false   | true   | true  
- false | false | false   | false  | true  
+
+| A | B | AND | OR | NOT |
+| --- | --- | --- | --- | --- |
+| set | don | les | lsa | lsa |
+| abc | dee | sda | dsa | xcz |
+  
 ## <u>Decicion Making and Loops:</u>
 
 We, most of the time, won't build our application imperatively. There must be a work flow based on conditions, re-executing a particular block of code for a desired number of times, or continuing the running code based on the user's input and interaction with the web page.
@@ -76,7 +76,3 @@ do{
 
 ```
 
-| A | B | AND | OR | NOT |
-| --- | --- | --- | --- | --- |
-| set | don | les | lsa | lsa |
-| abc | dee | sda | dsa | xcz |

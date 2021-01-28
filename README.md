@@ -12,7 +12,7 @@ Writing code and cooperating with other developers is now the part of my life th
 
 Lab name | Links
 ---------|---------
-Lab 02a: learning markdown | [Growth mindset](lab02a.md)
-Reading 03a: Structure web pages with HTML | [Structure web pages with HTML](read03aDesignYourPage.md)
-Reding 04: Introduction to JavaScript | [JavaScript and Script writing](read04.md)
-Reading 05: Decision making and Looping | [If statements and Loops](reading05.md)
+Read 02: learning markdown | [Growth mindset](lab02a.md)
+Read 03: Structure web pages with HTML | [Structure web pages with HTML](read03aDesignYourPage.md)
+Read 04: Introduction to JavaScript | [JavaScript and Script writing](read04.md)
+Read 05: Operators and Loops | [Logical Operators and Work Flow Statements](reading05.md)

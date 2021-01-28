@@ -1,12 +1,14 @@
 # Logical Operators and Work Flow Statements
 ## <u>Logical operators:</u>
 
-In JavaScript, there are three main logical operators that can be used in conditional checking; these are the logical AND(&&), the logical OR(||), and the logical NOT(!). Each one of these operators works differently from the others. <br>
+In JavaScript, there are three main logical operators that can be used in conditional checking; these are the logical AND(&&), the logical OR(\|\|), and the logical NOT(!). Each one of these operators works differently from the others. <br>
 
-| A | B | AND | OR | NOT |
+| A | B | A AND b | A OR B | NOT A |
 | --- | --- | --- | --- | --- |
-| set | don | les | lsa | lsa |
-| abc | dee | sda | dsa | xcz |
+| true | true | true | true | false |
+| true | false | false | true | false |
+| false | true | false | true | true |
+| false | false | false | false | true |
   
 ## <u>Decicion Making and Loops:</u>
 

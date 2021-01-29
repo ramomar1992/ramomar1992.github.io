@@ -53,7 +53,7 @@ There are three types of looping statements in JavaScript; For loop, While loop,
 The <strong><u>For</u></strong> loop is used when you know exactly how many times you want to loop. The sentence contains three parts; a declaration, a condition, and an update statements. We start by declaring a variable that will be our initial value to start the loop. A condition is then checked against this value in which the loop will continue looping until this condition fails. 
 
 ```javascript
- for ( <em>declaration ; condition; update</em> ){
+ for ( declaration ; condition; update ){
      statemets to execute;
  }
 
@@ -62,7 +62,7 @@ The <strong><u>For</u></strong> loop is used when you know exactly how many time
 It starts by the keyword <em>While</em>, then you type the condition you want to check each time of looping followed by statements to execute.
 
 ```javascript
- while ( <em>condition</em> ){
+ while ( condition ){
      statemets to execute;
  }
 
@@ -74,7 +74,7 @@ Last but not lease, the <em>Do While loop</em>. This loop ensures that the code 
 ```javascript
 do{
     statements to execute;
-} while ( <em>condition</em> );
+} while ( condition );
 
 ```
 

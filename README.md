@@ -10,9 +10,10 @@ Writing code and cooperating with other developers is now the part of my life th
 
 ## My lab assignments Code-Fellows
 
-Lab name | Links
----------|---------
-Read 02: learning markdown | [Growth mindset](lab02a.md)
-Read 03: Structure web pages with HTML | [Structure web pages with HTML](read03aDesignYourPage.md)
-Read 04: Introduction to JavaScript | [JavaScript and Script writing](read04.md)
-Read 05: Operators and Loops | [Logical Operators and Work Flow Statements](reading05.md)
+| Lab name                               | Links                                                      |
+| -------------------------------------- | ---------------------------------------------------------- |
+| Read 02: learning markdown             | [Growth mindset](lab02a.md)                                |
+| Read 03: Structure web pages with HTML | [Structure web pages with HTML](read03aDesignYourPage.md)  |
+| Read 04: Introduction to JavaScript    | [JavaScript and Script writing](read04.md)                 |
+| Read 05: Operators and Loops           | [Logical Operators and Work Flow Statements](reading05.md) |
+| Read 06: CSS and JS Functions          | [CSS Design and JavaScript Functions](Read06.md)           |

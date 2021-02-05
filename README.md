@@ -12,17 +12,17 @@ Writing code and cooperating with other developers is now the part of my life th
 
 ## Reading assignments for Amman-Code-102 class
 
-| Lab name                               | Links                                                      |
-| -------------------------------------- | ---------------------------------------------------------- |
-| Read 02: Learning markdown             | [Growth mindset](lab02a.md)                                |
-| Read 03: Structure Web Pages with HTML | [Structure web pages with HTML](read03aDesignYourPage.md)  |
-| Read 04: Introduction to JavaScript    | [JavaScript and Script writing](read04.md)                 |
-| Read 05: Operators and Loops           | [Logical Operators and Work Flow Statements](reading05.md) |
-| Read 06: CSS and JS Functions          | [CSS Design and JavaScript Functions](Read06.md)           |
+| Lab name                               | Links                                                                  |
+| -------------------------------------- | ---------------------------------------------------------------------- |
+| Read 02: Learning markdown             | [Growth mindset](Amman-Code-102/read02.md)                             |
+| Read 03: Structure Web Pages with HTML | [Structure web pages with HTML](Amman-Code-102/read03.md)              |
+| Read 04: Introduction to JavaScript    | [JavaScript and Script writing](Amman-Code-102/read04.md)              |
+| Read 05: Operators and Loops           | [Logical Operators and Work Flow Statements](Amman-Code-102/read05.md) |
+| Read 06: CSS and JS Functions          | [CSS Design and JavaScript Functions](Amman-Code-102/read06.md)        |
 
 ## Reading assignments for Amman-Code-201 class
 
-| Lab name | Links |
-| -------- | ----- |
-|          |       |
+| Lab name                                  | Links                                                        |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| Read 01: Introductory HTML and JavaScript | [Revision for JavaScript and HTML](Amman-Code-201/read01.md) |
 

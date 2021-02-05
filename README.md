@@ -22,7 +22,7 @@ Writing code and cooperating with other developers is now the part of my life th
 
 ## Reading assignments for Amman-Code-201 class
 
-| Lab name                                  | Links                                                        |
-| ----------------------------------------- | ------------------------------------------------------------ |
-| Read 01: Introductory HTML and JavaScript | [Revision for JavaScript and HTML](Amman-Code-201/read01.md) |
+| Lab name                                  | Links                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------- |
+| Read 01: Introductory HTML and JavaScript | [Revision for JavaScript and HTML](Amman-Code-201/read01.md) (in progress) |
 

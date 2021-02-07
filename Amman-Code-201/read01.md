@@ -88,3 +88,4 @@ Computers do not understand human language, so they need to be told what to do w
 ## Sketching out the flow chart:
 You can use different schemes to sketch your flowchart, yet there is a special way programmers agreed upon to ensure uniformity in drawing a flow  chart. For example, they decided to represent events with special shapes and other input and output options with other shapes. 
  
+![image of flowchart shapes](../images/workflowshapes.png)

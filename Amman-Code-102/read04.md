@@ -15,10 +15,10 @@ You should know precisely what the script should be for and what you will be usi
 
 ### 2.	Design the script:
 This can be achieved by dividing the job into smaller tasks; then, you may draw a flow chart illustrating these tasks from the beginning to the end.  
-![Image of a flowchart](images/FlowChart.png)
+![Image of a flowchart](../images/FlowChart.png)
 
 Next, you need to write a descriptive set of instructions to perform these individual tasks.
-![Image of instruction](images/instructions.png)
+![Image of instruction](../images/instructions.png)
 
 ### 3.	Now you write your code:
 Computers do not understand human language, so they need to be told what to do with a language they can understand. And just like any other language, it contains vocabulary and syntax. However, learning these will not help you know how computers work and how you write the code in a programmatic approach. You also have to learn to think logically like computers.

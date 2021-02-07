@@ -31,13 +31,13 @@ The site map will always begin with the homepage and branching from it, all othe
 Example site map sketch:
 
 
-![Site map image](images/sketch.png)
+![Site map image](../images/sketch.png)
 
 
 ### Wireframe:
 A wireframe is a simple sketch of the key information that needs to go on each page in a site. It shows the hierarchy of the information and how much space it might require.
 It should not include visuals and colors but rather the page's main components and how information is presented. It is helpful to show pages' wireframes to the client before designing the website to make sure it offers all functions and the information is shown in the right way.
- ![Wire frame image](images/wireframe.png)
+ ![Wire frame image](../images/wireframe.png)
 ### Getting your message across using design:
 The primary aim of any visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and read it in.
 Some web pages contain plenty amount of content and information. Hence, designers need to manage these components according to special roles.

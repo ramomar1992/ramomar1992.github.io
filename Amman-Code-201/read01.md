@@ -89,3 +89,61 @@ Computers do not understand human language, so they need to be told what to do w
 You can use different schemes to sketch your flowchart, yet there is a special way programmers agreed upon to ensure uniformity in drawing a flow  chart. For example, they decided to represent events with special shapes and other input and output options with other shapes. 
  
 ![image of flowchart shapes](../images/workflowshapes.png)
+
+# HOW DOES COMPUTERS FIT WITH THE WORLD AND UNDERSTAND THINGS
+
+Computers seems to not understand things link human does. So they need to be told and model these things in a special way. This way is rely on representing each object with data that the computers and programmers can deal with. 
+
+## What are objects?
+It is a way to represent physical and logical things by data to the computer. Every single object has a **type** and every single occurence of the same type is called an **instance**. Any object can have all of these components:
+- Properties (member Data)
+- Events (trigers)
+- Methods (functions)
+
+### Properties:
+
+Object can not be objects without having properties which tells computers what are the characteristics of the object. Properties are reperesented as pairs of names and values. For example, consider a player in a game, this player can have a position, a level, health, and name. We call these as the players properties.
+
+ | Property | value       |
+ | -------- | ----------- |
+ | Name     | Player      |
+ | level    | 25          |
+ | health   | 150         |
+ | Position | x:100 y:200 |
+ 
+### Events:
+
+Methods are the way in which the user can interact with objects. Different events trigered in response to different ways of interactions. For example, clicking an area in the screen to move the player, the event is moving the player which will triger the method of moving with that amount of distance, hence it can change the position property. Also, if a player was hit by an enemy, this trigers the health loss property and, in turn, affect the health property.
+
+So events can change the state and properties of any object according to however each event is capable of affecting that particuler poperty or group of properties. 
+
+### Methods:
+
+Methods are instructions that gives the object the ability to interact with users in the real world. They can retrive, change, and update the status of any property. 
+Methods are usually trigered by events or by direct call from the user.
+
+## How Does Web Browsers Deal With Web Pages
+
+Browsers are pieces of software that are made of objects. They in turn deal with pages as if they were objects by creating a special object that represent each page in the web called **docutment** *object. In this document object is the data required to render and interact with the web page.
+Every document object loaded in the window has its own properties, methods, and events. *All web browsers support document object and othe set of object models with which users can interact and modify*.
+
+![document object representation](../images/document-object.png)
+
+Here are the basic steps for how browsers sees and views any web page:
+1. Receive the page as HTML code.
+2. Create a model to the page and storee it in memory. 
+   ![doc-obj-modeling](../images/crearing-doc-obj.png)
+3. Use rendering engines to show the page on screen. 
+   
+All browsers use JavaScript interpreters to transform js source code to machine language. Interpreted languages like JavaScript are translated line by line to the processor; and that is why it is considered as dynamic language.
+
+
+
+
+
+
+
+
+
+
+

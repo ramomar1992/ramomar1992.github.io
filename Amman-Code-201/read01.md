@@ -31,13 +31,13 @@ The site map will always begin with the homepage and branching from it, all othe
 Example site map sketch:
 
 
-![Site map image](images/sketch.png)
+![Site map image](../images/sketch.png)
 
 
 ### Wireframe:
 A wireframe is a simple sketch of the key information that needs to go on each page in a site. It shows the hierarchy of the information and how much space it might require.
 It should not include visuals and colors but rather the page's main components and how information is presented. It is helpful to show pages' wireframes to the client before designing the website to make sure it offers all functions and the information is shown in the right way.
- ![Wire frame image](images/wireframe.png)
+ ![Wire frame image](../images/wireframe.png)
 ### Getting your message across using design:
 The primary aim of any visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and read it in.
 Some web pages contain plenty amount of content and information. Hence, designers need to manage these components according to special roles.
@@ -77,10 +77,10 @@ You should know precisely what the script should be for and what you will be usi
 
 ### 2.	Design the script:
 This can be achieved by dividing the job into smaller tasks; then, you may draw a flow chart illustrating these tasks from the beginning to the end.  
-![Image of a flowchart](images/FlowChart.png)
+![Image of a flowchart](../images/FlowChart.png)
 
 Next, you need to write a descriptive set of instructions to perform these individual tasks.
-![Image of instruction](images/instructions.png)
+![Image of instruction](../images/instructions.png)
 
 ### 3.	Now you write your code:
 Computers do not understand human language, so they need to be told what to do with a language they can understand. And just like any other language, it contains vocabulary and syntax. However, learning these will not help you know how computers work and how you write the code in a programmatic approach. You also have to learn to think logically like computers.

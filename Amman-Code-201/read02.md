@@ -4,7 +4,7 @@
 
 When structuring our HTML page, we need to write elements with tags that are called markups. Tags give meaning to the text they enclose and tell the browser how to display them. Two main categories of markup can sort them into:
 
-1. Structural markup 
+1. Structural markup
 2. Semantic markup: imply extra meaning to the contents, such as content that must be emphasized.
 
 ### Structural markup
@@ -54,7 +54,7 @@ I added this <sup>word</sup> as super script and last <sub>word</sub> as a subsc
 
 Browsers display adjacent spaces as one space even if it was a new line, so however times you add newlines and spaces, they will show as one space on the same line.
 
-```HTML
+```html
 
 <p>This is a paragraph                                   but this space will be elemented and only one space will remain</p>
 <p> Even new lines
@@ -66,10 +66,8 @@ will not be considered and will be eliminated getting back to the same line befo
 
 #### Line breaks and Horizontal rules
 
-If we want to add a line break and show the rest of the text on new lines, we can use \<br /> which will begin the text next to it in a new line. 
+If we want to add a line break and show the rest of the text on new lines, we can use \<br /> which will begin the text next to it in a new line.
 If we want to add a horizontal separator, we can add \<hr />, and it will show a fine line between the contents of the page. 
-
-
 
 ### Semantic markup
 
@@ -314,4 +312,3 @@ do{
 } while ( condition );
 
 ```
-

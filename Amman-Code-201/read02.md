@@ -99,11 +99,11 @@ Both tags can als use the **cite**
 
 ```html
 
-<blickquote cite="www.something.com/something/content">
+<blockquote cite="www.something.com/something/content">
 <p>
 a quote must be writen gere 
 </p>
-</blickquote>
+</blockquote>
 
 <p> some thing happend and <q cite="www.something.com/something/content">this quote is inline</q> and here continue the text</p>
 

@@ -8,9 +8,9 @@ Writing code and cooperating with other developers is now the part of my life th
 
 
 
-# My reading assignments Code-Fellows
+## My reading assignments Code-Fellows
 
-## Reading assignments for Amman-Code-102 class
+### Reading assignments for Amman-Code-102 class
 
 | Lab name                               | Links                                                                  |
 | -------------------------------------- | ---------------------------------------------------------------------- |
@@ -20,9 +20,10 @@ Writing code and cooperating with other developers is now the part of my life th
 | Read 05: Operators and Loops           | [Logical Operators and Work Flow Statements](Amman-Code-102/read05.md) |
 | Read 06: CSS and JS Functions          | [CSS Design and JavaScript Functions](Amman-Code-102/read06.md)        |
 
-## Reading assignments for Amman-Code-201 class
+### Reading assignments for Amman-Code-201 class
 
-| Lab name                                  | Links                                                                      |
-| ----------------------------------------- | -------------------------------------------------------------------------- |
-| Read 01: Introductory HTML and JavaScript | [Revision for JavaScript and HTML](Amman-Code-201/read01.md) (in progress) |
+| Lab name                                       | Links                                                            |
+| ---------------------------------------------- | ---------------------------------------------------------------- |
+| Read 01: Introductory HTML and JavaScript      | [Revision for JavaScript and HTML](Amman-Code-201/read01.md)     |
+| Read 02: HTML text, CSS intro, JavaScript more | [More about HTML, CSS, and JavaScript](Amman-Code-201/read02.md) |
 

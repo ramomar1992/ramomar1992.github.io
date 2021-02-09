@@ -22,8 +22,8 @@ Writing code and cooperating with other developers is now the part of my life th
 
 ### Reading assignments for Amman-Code-201 class
 
-| Lab name                                       | Links                                                            |
-| ---------------------------------------------- | ---------------------------------------------------------------- |
-| Read 01: Introductory HTML and JavaScript      | [Revision for JavaScript and HTML](Amman-Code-201/read01.md)     |
-| Read 02: HTML text, CSS intro, JavaScript more | [More about HTML, CSS, and JavaScript](Amman-Code-201/read02.md) |
-
+| Lab name                                  | Links                                                                              |
+| ----------------------------------------- | ---------------------------------------------------------------------------------- |
+| Read 01: Introductory HTML and JavaScript | [Revision for JavaScript and HTML](Amman-Code-201/read01.md)                       |
+| Read 02: HTML, CSS, JavaScript            | [More about HTML text, CSS intro, and JavaScript basics](Amman-Code-201/read02.md) |
+| Read 03: HTML, CSS, JavaScript            | [HTML Lists, CSS Boxes, JS Control Flow](Amman-Code-201/read03.md)                 |

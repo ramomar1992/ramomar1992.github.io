@@ -2,15 +2,15 @@
 
 ## HTML Links
 
-The web realies on linking to other sites or web pages on the same site. Therefore, we need an element to link to other wep pages, which is the \<a> element. 
+The web relies on linking to other sites or web pages on the same site. Therefore, we need an element to link to other web pages, which is the \<a> element.
 
 ### The link element
 
-It contains of to openeing and closing tags. The openning tag has to take `href:` attribute. This attribut tells the browser where to go when the user ckick on it. Also, we must write a leable link text between the openning and the closing tag, which is going to be the text that will appear to the user to till them where they go. But, before we dive deeper on what we can link to, lets talk about addresses.
+It contains both opening and closing tags. The opening tag has to take the `href:` attribute. This attribute tells the browser where to go when the user clicks on it. We must also write a liable link text between the opening and the closing tag, which will be the text that will appear to the user to tell them where they go. But, before we dive deeper on what we can link to, let us talk about addresses.
 
 #### Absolute adress
 
-When we want to link to a web page that is not on our site, we have to provide the full address which called absolute address. We have to write the hyper text protocol and the world wide web accronym, then we specify the domain and the rest of the path to the dsesired page.
+When we want to link to a web page that is not on our site, we must provide the full address, which is called absolute address. We have to write the hypertext protocol and the world wide web acronym, and then we specify the domain and the rest of the path to the desired page.
 
 ```html
 
@@ -31,7 +31,7 @@ When we want to link to a web page that is not on our site, we have to provide t
 
 #### Relative address
 
-When we link to a page that is in our website, we do not provide the full address with the domain name, we aonly provide the address relative to out web page from the root directory.
+When we link to a page on our website, we do not provide the full address with the domain name; we only provide the address relative to our web page from the root directory.
 
 ```html
 
@@ -50,7 +50,7 @@ When we link to a page that is in our website, we do not provide the full addres
 
 ### Linking to email
 
-We can link to an email address using the `meailto:`keyword inside the href attribute, then providing the email address, this will force the beowswer to open the mailing software with the type email as template to the user.
+We can link to an email address using the `meailto:`keyword inside the href attribute, then providing the email address. This will force the browser to open the mailing software with the type email as a template to the user.
 
 ```html
 
@@ -58,9 +58,9 @@ We can link to an email address using the `meailto:`keyword inside the href attr
 
 ```
 
-### Linking to a specific content on the page
+### Linking to specific content on the page
 
-You can add the ID attribute to the content to where you want the link to move to, and inside the href add the # with the ID of the content.
+You can add the ID attribute to the content to where you want the link to move to, and inside the href, add the # with the ID of the content.
 
 ```html
 
@@ -83,7 +83,7 @@ contrast to epilogue</p>
 
 ```
 
-### Openning the link in a separate window
+### Opening the link in a separate window
 
 You can specify a `target`attribute to the value `_blanck`to open the link in a separate window.
 
@@ -96,27 +96,27 @@ Internet Movie Database</a> (opens in new window)
 
 ## CSS Layouts
 
-When we take about designing a web page, it is different than designing a page to print or a poster ot any thing else. Web pages are flexible and can grow and shrink according to the screen's size. Therefore, when designing your web page, you have to know the core principles for positioning and layout your element on the  screen to appear the same way you intended before publishing your web site on all kind of devices. Lets start with first core concept:
+When designing a web page, it is different from designing a page to print or a poster to anything else. Web pages are flexible and can grow and shrink according to the screen's size. Therefore, when designing your web page, you have to know the core principles for positioning and layout your element on the screen to appear the same way you intended before publishing your website on all kinds of devices. Let us start with the first core concept:
 
-### Blook and Inline 
+### Blook and Inline
 
-To understand HTML's elements, we have to sort them acoording to how these elements appear on a wen page. They can appear either on a block level; meaning that they take new line and take the whole width if the screen. You can control the width and height of this kind of element.
+To understand HTML's elements, we have to sort them according to how these elements appear on a wen page. They can appear either on a block-level, meaning that they take a new line and take the whole screen width. You can control the width and height of this kind of element.
 Examples: p, h1, h2, div, ul, ol, and li.
 
-The second type is Inline level elements. This kind of elements appear on the same line as the previous content, and they only take the width of thier content. However, unlike block elements, inline elements must be converted to different dysplay type to change their size.
-Examples: a , img, label, button, em , and strong.
+The second type is Inline level elements. These elements appear on the same line as the previous content, and they only take the width of their content. However, unlike block elements, inline elements must be converted to different display types to change their size.
+Examples: a, img, label, button, em, and strong.
 
 ### Containing elements
 
-It is inevatable to enclose groups of elements inside divs so it will be easier for you to position them. When you put a group of elements inside a div or other block level element, the outer container is called the parent element.
+We inevitably enclose groups of elements inside divs, so it will be easier for you to position them. When you put a group of elements inside a div or other block-level element, the outer container is called the parent element.
 
 ### Positions
 
-In CSS, There are five poisioning schemes:
+In CSS, There are five positioning schemes:
 
-#### Static:
+#### Static
 
-Static is the most basic one and it positions the elements as they originally would appear if no CSS positioning applied to the page; as how would HTML position page elements on top of one another. Every block level element appear on a new line pushing all other elements underneath it down.
+Static is the most basic one. It positions the elements as they originally would appear if no CSS positioning applied to the page, as to how would HTML position page elements on top of one another. Every block-level element appears on a new line pushing all other elements underneath it down.
 
 ```css
 /* this code was taken form Duckatt CSS book */
@@ -136,12 +136,12 @@ width: 450px;}
 
 #### Relative
 
-Realtive positioning does not take the element out of the normal flow, thus element still holds its position on the page, but you can repositoion the element relative to its previous position inside the containing. If you moved an element so it can overflow on other elements, it would overlap with other elements without affecting their original position.
+Relative positioning does not take the element out of the normal flow. Thus element still holds its position on the page, but you can reposition the element relative to its previous position inside the containing. If you moved an element to flow over other elements, it would overlap with other elements without affecting their original position.
 
-Note: To position element after you change the position property, you can use the offset properties to change the element's poition on the screen. Offset are: top, bottom, left, right.
+Note: To position the element after you change the position property, you can use the offset properties to change the element's position on the screen. Offset are: top, bottom, left, right.
 
 ```css
-/* this code was taken form Duckatt CSS book */
+/* This code was taken from Duckett CSS book */
 
 p.example {
 position: relative;
@@ -152,10 +152,10 @@ left: 100px;}
 
 #### Absolute
 
-Absolute positioned element are taken out from the normal flow. These elements are sitting in relation to their containing parent. Since they are out of the flow, they do not affect other elements position, but the element's own position on the page is taken out allowing other elements to sit on its originial position.
+Absolute positioned elements are taken out from the normal flow. These elements are sitting in relation to their containing parent. Since they are out of the flow, they do not affect other elements' position. Still, the element's position on the page is taken out, allowing other elements to sit in their original position.
 
 ```css
-/* this code was taken form Duckatt CSS book */
+/* This code was taken from Duckett CSS book */
 
 h1 {
 position: absolute;
@@ -167,13 +167,12 @@ width: 450px;}
 
 ```
 
-
 #### fixed
 
-Elements with float position do not affect other elements and they do not move if the user scroll the page. They are taken from the normal flow, so all elements can move around them and can overlap with them.
+Elements with float position do not affect other elements, and they do not move if the user scrolls the page. They are taken from the normal flow so that all elements can move around them and overlap.
 
 ```css
-/* this code was taken form Duckatt CSS book */
+/* This code was taken from Duckett CSS book */
 
 h1 {
 position: fixed;
@@ -193,7 +192,7 @@ margin-top: 100px;}
 Floating an element allows you to take that element in normal flow and position it to the far left or right of a containing box. The floated element becomes a block-level element around which other content can flow.
 
 ```css
-/* this code was taken form Duckatt CSS book */
+/* This code was taken from Duckett CSS book */
 
 blockquote {
 float: right;
@@ -208,20 +207,20 @@ border-bottom: 1px solid #665544;}
 
 ```
 
-Note: When elements are taken from the normal flow, they can overlap over each other. Therefore, you can specify the z-index to determain which element should sit on top of the other.
+Note: When elements are taken from the normal flow, they can overlap over each other. Therefore, you can specify the z-index to determine which element should sit on top of the other.
 
-### Using float poition to create side-by-side design
+### Using float position to create side-by-side design
 
-In old designs, designers used float to sit elements side-by-side, but they faced many problems with thos property:
+In old designs, designers used the float positioning scheme to sit elements side-by-side, but they faced many problems with this property:
 
-#### Eements blocking each other from sitting in the right place
+#### Elements blocking each other from sitting in the right place
 
-When using float on element, its height affects where the following elements sit. Thus, it can also prevent certein element from floting across the pahe to the desired side.
+When using float position on an element, its height affects where the following elements sit. Thus, it can also prevent certain elements from floating across the page to the desired side.
 
-Designer solved this problem with another property; clear. Clearing the float means to clear either side of the element from touching other elements. By sitting its value to right, you prevent elements to touch it from the right, and if it is sit to left or both you prevent the left or both sides to touch other adjacent elements respectively.
+The designer solved this problem with another property; clear. Clearing the Float means clearing either side of the element from touching other elements. By setting its value to Right, you prevent elements from touching it from the right, and if it is set to Left or Both, you prevent the left or both sides to touch other adjacent elements, respectively.
 
 ```css
-/* this code was taken form Duckatt CSS book */
+/* This code was taken from Duckett CSS book */
 
 body {
 width: 750px;
@@ -240,12 +239,12 @@ clear: left;}
 
 #### Containing box height is set to zero
 
-This problem emerged when developers creared parent blocks containing elements in which all are set to float. The browser then gives the parent a height of zero, and its top and bottom borders are combind together in one thick line on either sides. 
+This problem emerged when developers created parent blocks containing elements in which all are set to float. The browser then gives the parent a height of zero, and its top and bottom borders are combined in one thick line on either side.
 
-Programmers tended to add another non-floating element inside the containing block with clear property sit to both. But, this approach seemed redundant since it means to add extra element the HTML. Therefore, they create another CSS solution. For boxes that have all elements as float, we sit its width to 100% and the overlow property to auto.
+Programmers tended to add another non-floating element inside the containing block with clear property sit to both. But, this approach seemed redundant since it means adding an extra element to the HTML. Therefore, they create another CSS solution. We set its width to 100% and the overflow property to auto for boxes with all elements as Float.
 
 ```css
-/* this code was taken form Duckatt CSS book */
+/* This code was taken from Duckett CSS book */
 
 div {
 border: 1px solid #665544;

@@ -2,6 +2,98 @@
 
 ## HTML Links
 
+The web realies on linking to other sites or web pages on the same site. Therefore, we need an element to link to other wep pages, which is the \<a> element. 
+
+### The link element
+
+It contains of to openeing and closing tags. The openning tag has to take `href:` attribute. This attribut tells the browser where to go when the user ckick on it. Also, we must write a leable link text between the openning and the closing tag, which is going to be the text that will appear to the user to till them where they go. But, before we dive deeper on what we can link to, lets talk about addresses.
+
+#### Absolute adress
+
+When we want to link to a web page that is not on our site, we have to provide the full address which called absolute address. We have to write the hyper text protocol and the world wide web accronym, then we specify the domain and the rest of the path to the dsesired page.
+
+```html
+
+<p>Movie Reviews:
+    <ul>
+        <li><a href="http://www.empireonline.com">
+            Empire</a></li>
+        <li><a href="http://www.metacritic.com">
+            Metacritic</a></li>
+        <li><a href="http://www.rottentomatoes.com">
+            Rotten Tomatoes</a></li>
+        <li><a href="http://www.variety.com">
+            Variety</a></li>
+    </ul>
+</p>
+
+```
+
+#### Relative address
+
+When we link to a page that is in our website, we do not provide the full address with the domain name, we aonly provide the address relative to out web page from the root directory.
+
+```html
+
+<p>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about-us.html">About</a></li>
+        <li><a href="movies.html">Movies</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</p>
+
+```
+
+![img to how we write relative](../images/relative.png)
+
+### Linking to email
+
+We can link to an email address using the `meailto:`keyword inside the href attribute, then providing the email address, this will force the beowswer to open the mailing software with the type email as template to the user.
+
+```html
+
+<a href="mailto:jon@example.org">Email Jon</a>
+
+```
+
+### Linking to a specific content on the page
+
+You can add the ID attribute to the content to where you want the link to move to, and inside the href add the # with the ID of the content.
+
+```html
+
+<h1 id="top">Film-Making Terms</h1>
+<a href="#arc_shot">Arc Shot</a><br />
+<a href="#interlude">Interlude</a><br />
+<a href="#prologue">Prologue</a><br /><br />
+<h2 id="arc_shot">Arc Shot</h2>
+<p>A shot in which the subject is photographed by an
+encircling or moving camera</p>
+<h2 id="interlude">Interlude</h2>
+<p>A brief, intervening film scene or sequence, not
+specifically tied to the plot, that appears
+within a film</p>
+<h2 id="prologue">Prologue</h2>
+<p>A speech, preface, introduction, or brief scene
+preceding the the main action or plot of a film;
+contrast to epilogue</p>
+<p><a href="#top">Top</a></p>
+
+```
+
+### Openning the link in a separate window
+
+You can specify a `target`attribute to the value `_blanck`to open the link in a separate window.
+
+```html
+
+<a href="http://www.imdb.com" target="_blank">
+Internet Movie Database</a> (opens in new window)
+
+```
+
 ## CSS Layouts
 
 When we take about designing a web page, it is different than designing a page to print or a poster ot any thing else. Web pages are flexible and can grow and shrink according to the screen's size. Therefore, when designing your web page, you have to know the core principles for positioning and layout your element on the  screen to appear the same way you intended before publishing your web site on all kind of devices. Lets start with first core concept:

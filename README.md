@@ -28,4 +28,5 @@ Writing code and cooperating with other developers is now the part of my life th
 | Read 02: HTML, CSS, JavaScript            | [More about HTML text, CSS intro, and JavaScript basics](Amman-Code-201/read02.md)    |
 | Read 03: HTML, CSS, JavaScript            | [HTML Lists, CSS Boxes, JS Control Flow](Amman-Code-201/read03.md)                    |
 | Read 04: HTML, CSS, JavaScript            | [HTML Links, CSS Layouts, JS Functions Methods and Objects](Amman-Code-201/read04.md) |
-| Read 04: HTML, CSS                        | [HTML Images, CSS Color, CSS Text](Amman-Code-201/read05.md)                          |
+| Read 05: HTML, CSS                        | [HTML Images, CSS Color, CSS Text](Amman-Code-201/read05.md)                          |
+| Read 06: JS                               | [JS Objects and DOM](Amman-Code-201/read06.md)                                        |

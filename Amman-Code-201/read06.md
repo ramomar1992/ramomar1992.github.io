@@ -79,3 +79,67 @@ function obj (param1, param2, param3){
 Notice that we created the function with uppercase, to remind the programmer that when they want to use the function constuctor they will remembet it is and object constructor not a regular function.
 
 We can create instances of the object using the new keyword and the function name. Then we provide the arguments needed to create the instance of the object. This type of objects is needed when you have a complex script that require you to create object instances in different places but you do not know wehre yes.
+
+## Document Object Model - DOM
+
+DOM is the model of how JavaScript interacts with the web page. It is implemented by the browser and it covers two main features:
+
+1. Making a model of the HTML page, and it is done by the DOM Tree method.
+2. Accessing and changing the content. People call it the API which is an accronym to Application Programming Interface, and it is the underlying structure to how humen unteract with the model and change the HTML and what the visitor sees on the browser.
+
+### DOM tree
+
+The browser create a model of the page using the DOM tree and store it in the browser memory. DOM tree consists of four main nodes:
+
+1. THE DOCUMENT NODE: document node is added on top of the Tree and it represnt the whole page. It is liek the first gate to the entire tree and if you want to access any of the page content you need to do that through the document node.
+2. ELEMENT NODES: it describes the structure of the HTML and elements added on the page one by one. Through this node you can then access the text and the attribute nodes of an element. Relationships between the document and all of the element nodes are described using the same terms as a family tree: parents, children, siblings, ancestors, and descendants. (Every node is a descendant of the document node.)
+3. ATTRIBUTE NODES: in the opening tag of any HTNL element there are attributes you can access and modify using scripts. They are considered part of the element not childrens of it.
+4. TEXT NODES:  we can access the text of any element useing the text node. Any element inside the node are not considered a children of the text node but rather a childen of the element node.
+
+### Working with DOM tree
+
+To access the DOM tree, you need to do two main steps:
+
+1. Locate and access the node the element in.
+2. Use functions and methods to modify or change its content ot child elements or attribute.
+
+#### Accessing elements
+
+We can either select the element using DOM Quities or Traversing
+
+##### DOM Quiryes
+
+We can also select either individual element or group of elements.
+
+###### Selecting individual element
+
+Here are three common ways to select an individual element:
+
+1. getElementByld()
+2. querySelector()
+
+###### Selecting group element
+
+There are three common ways to select multiple elements.
+
+1. getElementsByClassName()
+2. getElementsByTagName()
+3. querySelectorAll()
+
+##### Traversing
+
+You can move from one element node to a related element node.
+
+1. parentNode
+2. previousSibl ing / nextSibl ing
+3. firstChild / lastChild
+
+#### Working with the elements
+
+Here is an overview of methods and properties that work with the elements
+
+1. ACCESS/ UPDATE TEXT NODES
+2. WORK WITH HTML CONTENT
+3. ACCESS OR UPDATE ATTRIBUTE VALUES
+
+

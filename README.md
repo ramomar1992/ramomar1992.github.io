@@ -1,12 +1,10 @@
 # Omar Ramadan  
 
 Welcome to my webpage. I will tell you a bit about myself. I graduated with a medical science bachelor's degree and worked in a hospital right after graduation. 
-<br> Five years later, I realized that I do not like what I do. And to be successful at what you do, you have to love it. I turned my interest to software development a year ago, and I started learning from the very basics.
-<br>
-I am so passionate about this field since I had succeeded in many computer programming events in middle school. I wrote my first lines of code when I was 12 years old. The inspiration I had that time kept me persistent in designing small applications for my computer science teacher, and I build ten different applications while he only asked me to do one. That is from where I realized I wanted to learn programming and software development. <br>
-Writing code and cooperating with other developers is now the part of my life that I enjoy the most. I would sincerely want to keep going with the same motivation and spirit beyond what ordinary developers and community members would reach.
-
-
+\<br> Five years later, I realized that I do not like what I do. And to be successful in your career, you have to love it. I turned my interest to software development a year ago, and I started learning from the very basics.
+\<br>
+I am so passionate about this field since I had succeeded in many computer programming events in middle school. I wrote my first lines of code when I was 12 years old. The inspiration I had that time kept me persistent in designing small applications for my computer science teacher, and I build ten different applications while he asked me to make only one. That is from where I realized that I will be a scuccessful programmer and software developer. \<br>
+Writing code and cooperating with other developers is now the part of my life I enjoy the most. I would sincerely want to keep going with the same motivation and spirit beyond what ordinary developers and community members would reach.
 
 ## My reading assignments Code-Fellows
 
@@ -33,3 +31,4 @@ Writing code and cooperating with other developers is now the part of my life th
 | Read 07: Domain model, HTML, JS           | [Object-Oriented Programming, HTML Tables](Amman-Code-201/read07.md)                  |
 | Read 08: More CSS Layout                  | [CSS Layouts and Grid Systems](Amman-Code-201/read08.md)                              |
 | Read 09: HTML Forms and CSS Events        | [Events and how to write interactive code](Amman-Code-201/read09.md)                  |
+| Read 10: JS Debugging                     | [Error Handling and Debugging](Amman-Code-201/read10.md)                              |

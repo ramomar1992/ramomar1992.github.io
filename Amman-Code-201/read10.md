@@ -34,7 +34,7 @@ Interpreters are smart enough to see errors, so they stop the code and look for 
 
 Error objects can help you find where your mistakes are and browsers have tools to help you read them. When an Er ror object is created, it will contain the following properties:
 
-![Error Properties](/images/ErrorProperties.jpg)
+![Error Properties](../images/ErrorProperties.jpg)
 
 There are seven types of built-in error objects in JavaScript:
 

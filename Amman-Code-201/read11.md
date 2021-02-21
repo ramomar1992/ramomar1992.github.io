@@ -117,3 +117,68 @@ width: 300px;}
 If you want to add text to the background image element, you have to care about the contrast between the image and the text. Because images usually have high contrast, we need to modify their color before using them as background images.
 
 ![Image contrast](../images/contrast.png)
+
+## Practical information
+
+### SEO - Search Engine Optimization
+
+In this section we will cover what should you do to incease chances that your web page will appear to the top of search engine results when a user searches for a topic that your website covers.
+
+### On-Page Techniques
+
+On-page techniques rely on text content on your page and how it would be relevant to the search keywords that users input in serach engines. There are seven places where you can place these keywords in order for the engines to rate your website as relevant:
+
+1. The page title
+2. The web address of your site
+3. Headings
+4. Texts
+5. Link text
+6. Image alt text
+7. Page description
+
+#### How to determine the keywords your going to include in your pages
+
+Determining which keywords to use on your site can be one of the hardest tasks when you start to think about SEO. Here are six steps that will help you identify the right keywords and phrases for your site:
+
+1. Brainstorming: you can list all topics keyword your website covers and you may ask people what would they enter on the search engine to get to your site's topics.
+2. Organize: sort keywords into different categories.
+3. Research: there are several tool that can help provide you with new keywords to include.
+4. Compare: you may compare the keywords you came up with with other website that use the same keywords and look for how many times a certain keywords has been used to reach for these sites.
+5. Refine: you need to pick which keywords you will focus on. These should always be the ones that are most relevant to each section of your site. If there is a phrase that is very relevant but you find there is a lot of competition, you should still use it. To improve the chances of your site being found you can look at whether there are other words that could be incorporated into a phrase.
+6. Map: it is picking which keywords should go on which page ot group of pages.
+
+## Analytics
+
+When you post your site on the web, and the visitors begin to reach it, you need to analyze them on many aspects. There are several tools you can use to do your analysis, and one of the best tools is GOOGLE ANALYTICS. You first need to sign up for an account to use this service, and then Google will give you a tracking code that links to your website and record web traffic to your site.
+
+There are many features that the service offers. Following is some of them: 
+
+* ### How many people are coming to your site: 
+
+It records many types of information such as:
+
+1. Visits
+2. Unique visits
+3. Pageviews
+4. Pages per visit
+5. Average time on site
+
+* ### What are your visitors looking at:
+
+This allows you to learn more about what the visitors come to your site for. It records:
+
+1. Pages your visitors looking at
+2. Landing pages
+3. Top exit Pages
+4. Bounce rate
+
+* ###  Where are your visitors come from
+
+It is like trafficking where your visitors come from. This can be very handy since you can get in touch with those sites' owners and sites with the same topics so that you can cooperate with them. It provides you with this information: 
+
+1. Referrers sites and number of people come from them
+2. Direct input or direct access from sources other than the web
+3. Search terms that users used to get to your site from the search engines
+4. Many more advanced features that give you huge control over your website traffics
+
+## Domain Names and Hosting

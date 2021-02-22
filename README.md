@@ -34,3 +34,4 @@ Writing code and cooperating with other developers is now the part of my life I 
 | Read 10: JS Debugging                     | [Error Handling and Debugging](Amman-Code-201/read10.md)                              |
 | Read 11: CSS Audio, Video, Images         | [Assorted Topics ](Amman-Code-201/read11.md)                                          |
 | Read 12: Canvas and Chart.js              | [Docs for the HTML and Chart.js files](Amman-Code-201/read12.md)                      |
+| Read 13: Local Storage                    | [The History of Web Storage and HTML5 Storage(DOM Storage)](Amman-Code-201/read13.md) |

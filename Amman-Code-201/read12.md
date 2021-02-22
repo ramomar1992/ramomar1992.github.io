@@ -113,3 +113,24 @@ function draw() {
 }
 
 ```
+
+* ### Applying styles and colors
+
+If we want to apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.
+
+* fillStyle = color; Sets the style used when filling shapes.
+* strokeStyle = color; Sets the style for shapes' outlines.
+
+We can also change the obacity of the coulor whether using RGBA colors or using this method:
+
+`globalAlpha = transparencyValue;` Applies the specified transparency value to all future shapes drawn on the canvas. The value must be between 0.0 (fully transparent) to 1.0 (fully opaque). This value is 1.0 (fully opaque) by default.
+
+We can apply different line styles using there properties: 
+
+* lineWidth = value; Sets the width of lines drawn in the future.
+* lineCap = type; Sets the appearance of the ends of lines.
+* lineJoin = type; Sets the appearance of the "corners" where lines meet.
+* miterLimit = value; Establishes a limit on the miter when two lines join at a sharp angle, to let you control how thick the junction becomes.
+* getLineDash(); Returns the current line dash pattern array containing an even number of non-negative numbers.
+* setLineDash(segments); Sets the current line dash pattern.
+* lineDashOffset = value; Specifies where to start a dash array on a line.

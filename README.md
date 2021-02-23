@@ -20,18 +20,20 @@ Writing code and cooperating with other developers is now the part of my life I 
 
 ### Reading assignments for Amman-Code-201 class
 
-| Lab name                                  | Links                                                                                 |
-| ----------------------------------------- | ------------------------------------------------------------------------------------- |
-| Read 01: Introductory HTML and JavaScript | [Revision for JavaScript and HTML](Amman-Code-201/read01.md)                          |
-| Read 02: HTML, CSS, JavaScript            | [More about HTML text, CSS intro, and JavaScript basics](Amman-Code-201/read02.md)    |
-| Read 03: HTML, CSS, JavaScript            | [HTML Lists, CSS Boxes, JS Control Flow](Amman-Code-201/read03.md)                    |
-| Read 04: HTML, CSS, JavaScript            | [HTML Links, CSS Layouts, JS Functions Methods and Objects](Amman-Code-201/read04.md) |
-| Read 05: HTML, CSS                        | [HTML Images, CSS Color, CSS Text](Amman-Code-201/read05.md)                          |
-| Read 06: JS                               | [Problem Domain, Objects, and the DOM](Amman-Code-201/read06.md)                      |
-| Read 07: Domain model, HTML, JS           | [Object-Oriented Programming, HTML Tables](Amman-Code-201/read07.md)                  |
-| Read 08: More CSS Layout                  | [CSS Layouts and Grid Systems](Amman-Code-201/read08.md)                              |
-| Read 09: HTML Forms and CSS Events        | [Events and how to write interactive code](Amman-Code-201/read09.md)                  |
-| Read 10: JS Debugging                     | [Error Handling and Debugging](Amman-Code-201/read10.md)                              |
-| Read 11: CSS Audio, Video, Images         | [Assorted Topics ](Amman-Code-201/read11.md)                                          |
-| Read 12: Canvas and Chart.js              | [Docs for the HTML and Chart.js files](Amman-Code-201/read12.md)                      |
-| Read 13: Local Storage                    | [The History of Web Storage and HTML5 Storage(DOM Storage)](Amman-Code-201/read13.md) |
+| Lab name                                             | Links                                                                                 |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Read 01: Introductory HTML and JavaScript            | [Revision for JavaScript and HTML](Amman-Code-201/read01.md)                          |
+| Read 02: HTML, CSS, JavaScript                       | [More about HTML text, CSS intro, and JavaScript basics](Amman-Code-201/read02.md)    |
+| Read 03: HTML, CSS, JavaScript                       | [HTML Lists, CSS Boxes, JS Control Flow](Amman-Code-201/read03.md)                    |
+| Read 04: HTML, CSS, JavaScript                       | [HTML Links, CSS Layouts, JS Functions Methods and Objects](Amman-Code-201/read04.md) |
+| Read 05: HTML, CSS                                   | [HTML Images, CSS Color, CSS Text](Amman-Code-201/read05.md)                          |
+| Read 06: JS                                          | [Problem Domain, Objects, and the DOM](Amman-Code-201/read06.md)                      |
+| Read 07: Domain model, HTML, JS                      | [Object-Oriented Programming, HTML Tables](Amman-Code-201/read07.md)                  |
+| Read 08: More CSS Layout                             | [CSS Layouts and Grid Systems](Amman-Code-201/read08.md)                              |
+| Read 09: HTML Forms and CSS Events                   | [Events and how to write interactive code](Amman-Code-201/read09.md)                  |
+| Read 10: JS Debugging                                | [Error Handling and Debugging](Amman-Code-201/read10.md)                              |
+| Read 11: CSS Audio, Video, Images                    | [Assorted Topics ](Amman-Code-201/read11.md)                                          |
+| Read 12: Canvas and Chart.js                         | [Docs for the HTML and Chart.js files](Amman-Code-201/read12.md)                      |
+| Read 13: Local Storage                               | [The History of Web Storage and HTML5 Storage(DOM Storage)](Amman-Code-201/read13.md) |
+| Read 14: CSS Transforms, Transitions, and Animations | [CSS Transforms, Transitions, and Animations](Amman-Code-201/read14.md)               |
+| Read 15: What Google Learned About Teams             | [What Google Learned About Teams](Amman-Code-201/read15.md)                           |

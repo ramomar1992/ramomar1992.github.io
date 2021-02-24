@@ -1,1 +1,12 @@
 # What Google Learned About Teams
+
+Globalization opened the world for companies to open branches of their work in other countries. This means that the number of employees in the same company will increase enormously. The work between employees should be done in groups and more collaborative work instead of doing the job individually. So, in recent years, team-work and groups have become the fundamental part of any organization. Studies showed that team-work increases productivity and the quality of the job done. Because when people work in teams, they can give different perspectives, spot errors and mistakes faster, and correct those mistakes; therefore, the end product will be free of errors and improved quality.
+
+For this reason, giant tech companies are investing in research to find what makes groups work more efficiently and what qualities should a group of employees have for them to be a successful team. The article talks about research done by GOOGLE that studied 180 different groups from different backgrounds. However, at the beginning of the research, they could not find any patterns between groups with the most effective performance. Two teams may be very similar in their group members and share so much in common but have different efficiency.
+
+The researchers then studied the teams' norms, which is how group members behave when they gather at the conference room. These normes are not written to govern their behavior. Rather, it is the general atmospher and the member's attitude they developed verbally. Which is very similar to say it is team culture. They found no pattern related to which norms govern the team efficiency or, worse, too many patterns apply to this rule.
+
+What they discover eventually are the two most important traits a team should have:
+
+1. To give each member the same amount of time speaking and expressing their ideas, even if it was off the agenda. This approach forces the feeling of equality between the team members, which encouraged them to work more efficiently.
+2. Team members should be sensitive to each other's feelings and not press them instead of supporting them and listening to them. This norm increases the socialization of the team and makes them feel that they are safe socially.

@@ -45,7 +45,7 @@ This website is a collective database to my reading notes throughout my journey 
 | Class   | Links   |
 | ------- | ------- |
 | Read 01: SMACSS and Responsive Web Design | [RESPONSIVE WEB DESIGN and FLOATS](Amman-Code-301/read01.md) |
-| Read 02:  | [](Amman-Code-301/read02.md) |
+| Read 02: jQuery, Events, and The DOM | [jQuery and Pair Programming](Amman-Code-301/read02.md) |
 | Read 03:  | [](Amman-Code-301/read03.md) |
 | Read 04:  | [](Amman-Code-301/read04.md) |
 | Read 05:  | [](Amman-Code-301/read05.md) |

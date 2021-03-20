@@ -117,3 +117,18 @@ The • on () method has two optional properties that let you: Filter the initia
 We can download a copy of the jQuery file from the official website or get a link from a CDN and include it inside our HTML file. It is better to include a fallback link to the file from our server because the CDN might go down or travel files to different networks.
 
 The best place to include the link to the jQuery file is at the bottom of the HTML file before the body tag closed.
+
+## Pair Programming
+
+Pair programming is a strategy utilized by working areas that adopt agile. It involves two people working on the same project and tackle the same problems. Using pair programming, since each programmer has their coding style, the collaboration will result in a more efficient and higher quality code. Problems will be solved faster, and when debugging, two people will be able to debug the code and get the job done in a shorter time.
+
+Pair programming requires two people working on the same code feature or problem. One of them is called the driver, who writes the code and interprets what the other programmer tries to explain. The other is called the navigator, who guides the driver throughout the code, watching and thinking more than typing and testing, the thing that allows them to be more careful and able to spot errors and coding mistakes instantaneously.
+
+### Why pair programming
+
+* Better efficiency: this means that two people will tackle problems and bugs when two programmers are working on the same project simultaneously. Doing this will take a slightly longer time, but it will leave the code working better than when only one programmer has written it.
+* Engaged Collaboration: when two programmers are working together, and each one relies on the other, it will decrease distraction and procrastination.
+* Learning from fellow students: when one of the programmers has more knowledge than the other, by explaining problems, the other programmer will learn new concepts and new things, the one who has more knowledge will solidify their knowledge more.
+* Social skills: pair programming teaches teamwork and gives programmers a chance to develop their communication skills.
+* Job interview readiness
+* Work environment readiness

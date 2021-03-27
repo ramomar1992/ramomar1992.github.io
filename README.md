@@ -48,7 +48,7 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 02: jQuery, Events, and The DOM | [jQuery and Pair Programming](Amman-Code-301/read02.md) |
 | Read 03: Flexbox and Templating | [MUSTACHE and FLEXBOX](Amman-Code-301/read03.md) |
 | Read 04: Responsive Web Design and Regular Expressions | [CSS GRID](Amman-Code-301/read04.md) |
-| Read 05:  | [](Amman-Code-301/read05.md) |
+| Read 05: Heroku Deployment | [HEROKU](Amman-Code-301/read05.md) |
 | Read 06:  | [](Amman-Code-301/read06.md) |
 | Read 07:  | [](Amman-Code-301/read07.md) |
 | Read 08:  | [](Amman-Code-301/read08.md) |

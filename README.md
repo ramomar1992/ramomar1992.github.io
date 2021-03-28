@@ -49,11 +49,11 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 03: Flexbox and Templating | [MUSTACHE and FLEXBOX](Amman-Code-301/read03.md) |
 | Read 04: Responsive Web Design and Regular Expressions | [CSS GRID](Amman-Code-301/read04.md) |
 | Read 05: Heroku Deployment | [HEROKU](Amman-Code-301/read05.md) |
-| Read 06:  | [](Amman-Code-301/read06.md) |
-| Read 07:  | [](Amman-Code-301/read07.md) |
-| Read 08:  | [](Amman-Code-301/read08.md) |
-| Read 09:  | [](Amman-Code-301/read09.md) |
-| Read 10:  | [](Amman-Code-301/read10.md) |
+| Read 06: Node, Express, and APIs | [NODE.JS](Amman-Code-301/read06.md) |
+| Read 07: APIs continued | [REST](Amman-Code-301/read07.md) |
+| Read 08: SQL | [SQL](Amman-Code-301/read08.md) |
+| Read 09: Refactoring | [UNCTIONAL PROGRAMMING](Amman-Code-301/read09.md) |
+| Read 10: The Call Stack and Debugging | [THE CALL STACK](Amman-Code-301/read10.md) |
 | Read 11:  | [](Amman-Code-301/read11.md) |
 | Read 12:  | [](Amman-Code-301/read12.md) |
 | Read 13:  | [](Amman-Code-301/read13.md) |

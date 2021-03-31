@@ -52,7 +52,7 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 06: Node, Express, and APIs | [NODE.JS](Amman-Code-301/read06.md) |
 | Read 07: APIs continued | [REST](Amman-Code-301/read07.md) |
 | Read 08: SQL | [SQL](Amman-Code-301/read08.md) |
-| Read 09: Refactoring | [UNCTIONAL PROGRAMMING](Amman-Code-301/read09.md) |
+| Read 09: Refactoring | [FUNCTIONAL PROGRAMMING](Amman-Code-301/read09.md) |
 | Read 10: The Call Stack and Debugging | [THE CALL STACK](Amman-Code-301/read10.md) |
 | Read 11:  | [](Amman-Code-301/read11.md) |
 | Read 12:  | [](Amman-Code-301/read12.md) |

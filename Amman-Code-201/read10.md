@@ -1,6 +1,6 @@
 # JavaScript - Error Handling and Debugging
 
-No one writes code with no mistakes or errors, even the best programmers on earth. Therefore, there are special tools that programmers can use to trace their code line by line and fix these errors. We usually call them *BUGS*, and the tool that provides us with the functionality to correct them is called *DECUGGER*. 
+No one writes code with no mistakes or errors, even the best programmers on earth. Therefore, there are special tools that programmers can use to trace their code line by line and fix these errors. We usually call them *BUGS*, and the tool that provides us with the functionality to correct them is called *DECUGGER*.
 
 ## Order of Execution and Execution Contexts
 
@@ -11,9 +11,9 @@ Moreover, JavaScript uses the concept of scopes and execution context. This mean
 1. Global Context: it is when the code being run is outside all functions.
 2. Function Context: it is when the code being run is inside the function
 
-Variables, in turn, have their own scopes according to where they are declared in the script. The Global Scope variables are the ones that are declared globally, and they are available to use anywhere in the script, even inside functions. Function Scope variables are variables declared inside functions, and once the function is terminated, they become invalid to use outside the function. 
+Variables, in turn, have their own scopes according to where they are declared in the script. The Global Scope variables are the ones that are declared globally, and they are available to use anywhere in the script, even inside functions. Function Scope variables are variables declared inside functions, and once the function is terminated, they become invalid to use outside the function.
 
-## Hoisting 
+## Hoisting
 
 When each context is created to be executed, variables and functions are declared first. Therefore, we can write in our code functions and variables used before their declarations.
 
@@ -30,12 +30,12 @@ When execution context is created, a new variables object that holds all variabl
 
 Interpreters are smart enough to see errors, so they stop the code and look for error handling code when they see errors. If the interpreter finds the code to handle the error, it will use the code and continue the execution normally; Otherwise, it will look in the outer scope, which could be the function in which it was called. If there is no error handling code in any of the functions called it, it continues looking for it in the contexts that lead to its execution until it reaches the global scope, where it will throw an exception and terminate the script.
 
-## Error Objects
-
-Error objects can help you find where your mistakes are and browsers have tools to help you read them. When an Er ror object is created, it will contain the following properties:
-
-![Error Properties](../images/ErrorProperties.jpg)
-
 There are seven types of built-in error objects in JavaScript:
 
 ![Error Objects](../images/ErrorObject.jpg)
+
+## Error Objects
+
+Error objects can help you find where your mistakes are and browsers have tools to help you read them. When an Error object is created, it will contain the following properties:
+
+![Error Properties](../images/ErrorProperties.jpg)

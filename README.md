@@ -54,7 +54,7 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 08: SQL | [SQL](Amman-Code-301/read08.md) |
 | Read 09: Refactoring | [FUNCTIONAL PROGRAMMING](Amman-Code-301/read09.md) |
 | Read 10: The Call Stack and Debugging | [THE CALL STACK](Amman-Code-301/read10.md) |
-| Read 11:  | [](Amman-Code-301/read11.md) |
+| Read 11:  EJS | [EJS](Amman-Code-301/read11.md) |
 | Read 12:  | [](Amman-Code-301/read12.md) |
 | Read 13:  | [](Amman-Code-301/read13.md) |
 | Read 14:  | [](Amman-Code-301/read14.md) |

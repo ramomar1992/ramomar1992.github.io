@@ -59,3 +59,23 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 13: UPDATE and DELETE                             | [SENDING FORM DATA](Amman-Code-301/read13.md)                          |
 | Read 14: DB Normalization                              | [DATABASE NORMALIZATION](Amman-Code-301/read14.md)                     |
 | Read 15: Diversity and Inclusion                       | [Diversity & Inclusion in the Tech Industry](Amman-Code-301/read15.md) |
+
+### Reading assignments for amman-code-javascript-401d8: Advanced Software Development in Full-Stack JavaScript
+
+| Class    | Links                                                                  |
+| -------- | ---------------------------------------------------------------------- |
+| Read 01: | [RESPONSIVE WEB DESIGN and FLOATS](Amman-Code-401/read01.md)           |
+| Read 02: | [jQuery and Pair Programming](Amman-Code-401/read02.md)                |
+| Read 03: | [MUSTACHE and FLEXBOX](Amman-Code-401/read03.md)                       |
+| Read 04: | [CSS GRID](Amman-Code-401/read04.md)                                   |
+| Read 05: | [HEROKU](Amman-Code-401/read05.md)                                     |
+| Read 06: | [NODE.JS](Amman-Code-401/read06.md)                                    |
+| Read 07: | [REST](Amman-Code-401/read07.md)                                       |
+| Read 08: | [SQL](Amman-Code-401/read08.md)                                        |
+| Read 09: | [FUNCTIONAL PROGRAMMING](Amman-Code-401/read09.md)                     |
+| Read 10: | [THE CALL STACK](Amman-Code-401/read10.md)                             |
+| Read 11: | [EJS](Amman-Code-401/read11.md)                                        |
+| Read 12: | [Partials](Amman-Code-401/read12.md)                                   |
+| Read 13: | [SENDING FORM DATA](Amman-Code-401/read13.md)                          |
+| Read 14: | [DATABASE NORMALIZATION](Amman-Code-401/read14.md)                     |
+| Read 15: | [Diversity & Inclusion in the Tech Industry](Amman-Code-401/read15.md) |

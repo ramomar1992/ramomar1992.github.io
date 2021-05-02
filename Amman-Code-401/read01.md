@@ -2,11 +2,11 @@
 
 ## Array.map()
 
-It is an array prototype that is done on arrays and returns a new array with the same length of the starter array. We can perform any operations on the elements of the starter array and the returned value will be assigned to the coorisponding posiion of the new array. It takes a callback funciton with two main default arguments that should be manually supplied; index and cuurent element. If the started arry contains all nulls the returned array will also return nulled values.
+It is an array prototype performed on arrays and returns a new array with the same length as the starter array. We can perform any operations on the elements of the starter array, and the returned value will be assigned to the corresponding position of the new array. It takes a callback function with two main default arguments that should be manually supplied; index and current element. If the started array contains all nulls, the returned array will also return nulled values.
 
 ## Array.reduce()
 
-It is also an array prototype that is performed on arrays of any type. It takes a callback and a start value assigned to a default argument called the accumulator. The returned value will be assigned to the accumulator and will be processed again with the callback funciton until all elementss are exhausted. The final accumulated value will be retunred and the method will terminate. The callback function takes three main default arguments; accumulator, index, and element.
+It is also an array prototype that is performed on arrays of any type. It takes a callback, and a start value assigned to a default argument called the accumulator. The returned value will be assigned to the accumulator and processed again with the callback function until all elements are exhausted. The final accumulated value will be returned, and the method will terminate. The callback function takes three main default arguments; accumulator, index, and element.
 
 ## superagent()
 

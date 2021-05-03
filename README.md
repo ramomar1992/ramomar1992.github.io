@@ -66,7 +66,7 @@ This website is a collective database to my reading notes throughout my journey 
 | ---------------------------------- | ------------------------------------------------------------------------ |
 | Prep Read: Get Ready for 401       | [THINK LIKE PROGRAMMERS AND PROBLEM SOLVING](Amman-Code-401/propread.md) |
 | Read 01:Node Ecosystem, TDD, CI/CD | [Review, Research, and Discussion](Amman-Code-401/read01.md)             |
-| Read 02:                           | [](Amman-Code-401/read02.md)                                             |
+| Read 02: Express                   | [Express](Amman-Code-401/read02.md)                                             |
 | Read 03:                           | [](Amman-Code-401/read03.md)                                             |
 | Read 04:                           | [](Amman-Code-401/read04.md)                                             |
 | Read 05:                           | [](Amman-Code-401/read05.md)                                             |

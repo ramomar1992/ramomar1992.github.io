@@ -62,21 +62,21 @@ This website is a collective database to my reading notes throughout my journey 
 
 ### Reading assignments for amman-code-javascript-401d8: Advanced Software Development in Full-Stack JavaScript
 
-| Class                              | Links                                                                    |
-| ---------------------------------- | ------------------------------------------------------------------------ |
-| Prep Read: Get Ready for 401       | [THINK LIKE PROGRAMMERS AND PROBLEM SOLVING](Amman-Code-401/propread.md) |
-| Read 01:Node Ecosystem, TDD, CI/CD | [Review, Research, and Discussion](Amman-Code-401/read01.md)             |
-| Read 02: Express                   | [Express](Amman-Code-401/read02.md)                                      |
-| Read 03: Express REST API          | [Express REST API](Amman-Code-401/read03.md)                             |
-| Read 04:                           | [](Amman-Code-401/read04.md)                                             |
-| Read 05:                           | [](Amman-Code-401/read05.md)                                             |
-| Read 06:                           | [](Amman-Code-401/read06.md)                                             |
-| Read 07:                           | [](Amman-Code-401/read07.md)                                             |
-| Read 08:                           | [](Amman-Code-401/read08.md)                                             |
-| Read 09:                           | [](Amman-Code-401/read09.md)                                             |
-| Read 10:                           | [](Amman-Code-401/read10.md)                                             |
-| Read 11:                           | [](Amman-Code-401/read11.md)                                             |
-| Read 12:                           | [](Amman-Code-401/read12.md)                                             |
-| Read 13:                           | [](Amman-Code-401/read13.md)                                             |
-| Read 14:                           | [](Amman-Code-401/read14.md)                                             |
-| Read 15:                           | [](Amman-Code-401/read15.md)                                             |
+| Class                               | Links                                                                    |
+| ----------------------------------- | ------------------------------------------------------------------------ |
+| Prep Read: Get Ready for 401        | [THINK LIKE PROGRAMMERS AND PROBLEM SOLVING](Amman-Code-401/propread.md) |
+| Read 01: Node Ecosystem, TDD, CI/CD | [Review, Research, and Discussion](Amman-Code-401/read01.md)             |
+| Read 02: Express                    | [Express](Amman-Code-401/read02.md)                                      |
+| Read 03: Express REST API           | [Express REST API](Amman-Code-401/read03.md)                             |
+| Read 04: Data Modeling              | [Data Modeling](Amman-Code-401/read04.md)                                |
+| Read 05:                            | [](Amman-Code-401/read05.md)                                             |
+| Read 06:                            | [](Amman-Code-401/read06.md)                                             |
+| Read 07:                            | [](Amman-Code-401/read07.md)                                             |
+| Read 08:                            | [](Amman-Code-401/read08.md)                                             |
+| Read 09:                            | [](Amman-Code-401/read09.md)                                             |
+| Read 10:                            | [](Amman-Code-401/read10.md)                                             |
+| Read 11:                            | [](Amman-Code-401/read11.md)                                             |
+| Read 12:                            | [](Amman-Code-401/read12.md)                                             |
+| Read 13:                            | [](Amman-Code-401/read13.md)                                             |
+| Read 14:                            | [](Amman-Code-401/read14.md)                                             |
+| Read 15:                            | [](Amman-Code-401/read15.md)                                             |

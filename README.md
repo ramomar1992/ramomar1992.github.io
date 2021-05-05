@@ -9,6 +9,7 @@ Writing code and cooperating with other developers is now the part of my life I 
 ## My reading notes
 
 This website is a collective database to my reading notes throughout my journey learning softwate development. It will contain tables holds links to webpages where I create for every class note separately.
+[GitHub Redndering Page](https://ramomar1992.github.io/reading-notes/)
 
 ### Reading assignments for Amman-Code-102 class: Intro to Software Development
 

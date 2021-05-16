@@ -71,7 +71,7 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 03: Express REST API           | [Express REST API](Amman-Code-401/read03.md)                             |
 | Read 04: Data Modeling              | [Data Modeling](Amman-Code-401/read04.md)                                |
 | Read 05: Linked Lists               | [Linked Lists](Amman-Code-401/read05.md)                                 |
-| Read 06:                            | [](Amman-Code-401/read06.md)                                             |
+| Read 06: Authentication             | [Authentication](Amman-Code-401/read06.md)                               |
 | Read 07:                            | [](Amman-Code-401/read07.md)                                             |
 | Read 08:                            | [](Amman-Code-401/read08.md)                                             |
 | Read 09:                            | [](Amman-Code-401/read09.md)                                             |

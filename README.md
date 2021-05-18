@@ -73,7 +73,7 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 05: Linked Lists               | [Linked Lists](Amman-Code-401/read05.md)                                 |
 | Read 06: Authentication             | [Authentication](Amman-Code-401/read06.md)                               |
 | Read 07: Bearer Authorization       | [Bearer Authorization](Amman-Code-401/read07.md)                         |
-| Read 08:                            | [](Amman-Code-401/read08.md)                                             |
+| Read 08: Access Control (ACL)       | [Access Control (ACL)](Amman-Code-401/read08.md)                         |
 | Read 09:                            | [](Amman-Code-401/read09.md)                                             |
 | Read 10:                            | [](Amman-Code-401/read10.md)                                             |
 | Read 11:                            | [](Amman-Code-401/read11.md)                                             |

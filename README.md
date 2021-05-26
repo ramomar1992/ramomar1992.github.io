@@ -79,5 +79,5 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 11: Event Driven Applications  | [Event Driven Applications](Amman-Code-401/read11.md)                    |
 | Read 12: WebSocket                  | [WebSocket](Amman-Code-401/read12.md)                                    |
 | Read 13: Message Queues             | [Message Queues](Amman-Code-401/read13.md)                               |
-| Read 14:                            | [](Amman-Code-401/read14.md)                                             |
-| Read 15:                            | [](Amman-Code-401/read15.md)                                             |
+| Read 14: Event Driven Architecture  | [Event Driven Architecture](Amman-Code-401/read14.md)                    |
+| Read 15: Trees                      | [Trees](Amman-Code-401/read15.md)                                        |

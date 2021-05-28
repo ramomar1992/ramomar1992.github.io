@@ -1,8 +1,8 @@
 # Event Driven Applications
 
-Event driven programming as a programing approach allows high control and scaleability on our applications. We usualy use event-driven programming without realizing that. 
+Event driven programming as a programing approach allows high control and scaleability on our applications. We usualy use event-driven programming without realizing that.
 
-When we interact with a web page, we are causing events to be emitted and listened to. So, if we click on a button, this action emits a button-click event, and the browser will react to this event with whatever function and operations are passed to the event handler. Also, when we hover over some elements on the document interface or selecting a text we also cause events to be emitted and a respond to these events are run. 
+When we interact with a web page, we are causing events to be emitted and listened to. So, if we click on a button, this action emits a button-click event, and the browser will react to this event with whatever function and operations are passed to the event handler. Also, when we hover over some elements on the document interface or selecting a text we also cause events to be emitted and a respond to these events are run.
 
 There are two main parts for event-driven programming make use of:
 

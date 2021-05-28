@@ -1,5 +1,28 @@
 # Event Driven Applications
 
+Event driven programming as a programing approach allows high control and scaleability on our applications. We usualy use event-driven programming without realizing that. 
+
+When we interact with a web page, we are causing events to be emitted and listened to. So, if we click on a button, this action emits a button-click event, and the browser will react to this event with whatever function and operations are passed to the event handler. Also, when we hover over some elements on the document interface or selecting a text we also cause events to be emitted and a respond to these events are run. 
+
+There are two main parts for event-driven programming make use of:
+
+1. The main event-loop
+2. The event handlers that respond to events
+
+## Event Emitter with Node.js
+
+Node is quite a decint tool that allows us to play aroud with events and include event-drived concept into our applications.
+Node provides us with a native package called `events` Which we can use to emit events when they are come to happen.
+
+```javascript
+
+const EventEmitter = require('events').EventEmitter;
+const events = new EventEmitter;
+
+```
+
+It is very useful to note that it is so much better to declare event-handling functions with valid names so we can reference them when we want to remove event listeners. This step is very important when we no longer need the event-handler and the event will not occure anymore.
+
 ## Why is access control important?
 
 When we are building a website, different kinds of users have different accessibility to the website's content. The level of authorization will vary depending on the type of user. Therefore, access control is massively important to let our application decide and define each user and the content they are authorized to display and interact with.

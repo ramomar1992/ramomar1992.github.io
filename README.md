@@ -82,3 +82,4 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 14: Event Driven Architecture  | [Event Driven Architecture](Amman-Code-401/read14.md)                    |
 | Read 15: Trees                      | [Trees](Amman-Code-401/read15.md)                                        |
 | Read 16: AWS: Cloud Servers         | [AWS: Cloud Servers](Amman-Code-401/read16.md)                           |
+| Read 16: AWS: S3 and Lambda         | [AWS: S3 and Lambda](Amman-Code-401/read17.md)                           |

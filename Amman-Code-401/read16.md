@@ -48,6 +48,7 @@ The request/response cycle traces how a user’s request flows through the app. 
 
 It is the computer that HTTP requests are sent and from where the response is received.
 
+
 ### What does it mean to “deploy” an application?
 
 When we deploy the application, we make it available online to go to its specific URL and benefit from the services it provides. Deploying involves storage and processing power to allow the application to run as it is running on one's personal machine.

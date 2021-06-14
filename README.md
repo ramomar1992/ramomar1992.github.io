@@ -86,3 +86,4 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 18: AWS: API, Dynamo and Lambda | [AWS: API, Dynamo and Lambda](Amman-Code-401/read18.md)                  |
 | Read 19: AWS: Events                 | [AWS: SQS vs SNS](Amman-Code-401/read19.md)                              |
 | Read 26: Component Based UI          | [Component Based UI](Amman-Code-401/read26.md)                           |
+| Read 27: Props and State             | [Props and State](Amman-Code-401/read27.md)                              |

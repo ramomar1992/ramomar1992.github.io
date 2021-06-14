@@ -20,7 +20,7 @@ When building React applications, there are times when you’ll want to calculat
 
 setState() should be treated asynchronously — in other words, do not always expect that the state has changed after calling setState().
 
-## Summart
+## Summary
 
 When working with setState(), these are the major things you should know:
 

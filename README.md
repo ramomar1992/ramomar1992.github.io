@@ -75,7 +75,7 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 07: Bearer Authorization        | [Bearer Authorization](Amman-Code-401/read07.md)                         |
 | Read 08: Access Control (ACL)        | [Access Control (ACL)](Amman-Code-401/read08.md)                         |
 | Read 09: OAuth                       | [OAuth](Amman-Code-401/read09.md)                                        |
-| Read 10: Stck and Queues             | [Stck and Queues](Amman-Code-401/read10.md)                              |
+| Read 10: Stack and Queues             | [Stack and Queues](Amman-Code-401/read10.md)                              |
 | Read 11: Event Driven Applications   | [Event Driven Applications](Amman-Code-401/read11.md)                    |
 | Read 12: WebSocket                   | [WebSocket](Amman-Code-401/read12.md)                                    |
 | Read 13: Message Queues              | [Message Queues](Amman-Code-401/read13.md)                               |
@@ -89,3 +89,4 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 27: Props and State             | [Props and State](Amman-Code-401/read27.md)                              |
 | Read 28: Component Composition       | [Component Composition](Amman-Code-401/read28.md)                        |
 | Read 29: React Routing               | [React Routing](Amman-Code-401/read29.md)                                |
+| Read 30: Hash Maps                   | [Hash Maps](Amman-Code-401/read30.md)                                    |

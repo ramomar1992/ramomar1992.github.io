@@ -90,4 +90,4 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 28: Component Composition       | [Component Composition](Amman-Code-401/read28.md)                        |
 | Read 29: React Routing               | [React Routing](Amman-Code-401/read29.md)                                |
 | Read 30: Hash Maps                   | [Hash Maps](Amman-Code-401/read30.md)                                    |
-| Read 31: Hooks API                   | [Hash Maps](Amman-Code-401/read31.md)                                    |
+| Read 31: Hooks API                   | [Hooks API](Amman-Code-401/read31.md)                                    |

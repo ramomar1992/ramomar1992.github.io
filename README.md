@@ -92,3 +92,4 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 30: Hash Maps                   | [Hash Maps](Amman-Code-401/read30.md)                                    |
 | Read 31: Hooks API                   | [Hooks API](Amman-Code-401/read31.md)                                    |
 | Read 32: Custom Hooks                | [Custom Hooks](Amman-Code-401/read32.md)                                 |
+| Read 33: Context API                 | [Context API](Amman-Code-401/read33.md)                                  |

@@ -26,7 +26,7 @@ If you have NPM and Node.js installed, you can create a React application by fir
 
 JSX produces React “elements”.
 
-### Benifits of JSX
+### Benefits of JSX
 
 React embraces the fact that rendering logic is inherently coupled with other UI logic: how events are handled, how the state changes over time, and how the data is prepared for display.
 

@@ -94,3 +94,4 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 32: Custom Hooks                | [Custom Hooks](Amman-Code-401/read32.md)                                 |
 | Read 33: Context API                 | [Context API](Amman-Code-401/read33.md)                                  |
 | Read 34: Role-based access control   | [Role-based access control](Amman-Code-401/read34.md)                    |
+| Read 34: Graph Data Structure        | [Graph Data Structure](Amman-Code-401/read35.md)                         |

@@ -63,35 +63,36 @@ This website is a collective database to my reading notes throughout my journey 
 
 ### Reading assignments for amman-code-javascript-401d8: Advanced Software Development in Full-Stack JavaScript
 
-| Class                                | Links                                                                    |
-| ------------------------------------ | ------------------------------------------------------------------------ |
-| Prep Read: Get Ready for 401         | [THINK LIKE PROGRAMMERS AND PROBLEM SOLVING](Amman-Code-401/propread.md) |
-| Read 01: Node Ecosystem, TDD, CI/CD  | [Review, Research, and Discussion](Amman-Code-401/read01.md)             |
-| Read 02: Express                     | [Express](Amman-Code-401/read02.md)                                      |
-| Read 03: Express REST API            | [Express REST API](Amman-Code-401/read03.md)                             |
-| Read 04: Data Modeling               | [Data Modeling](Amman-Code-401/read04.md)                                |
-| Read 05: Linked Lists                | [Linked Lists](Amman-Code-401/read05.md)                                 |
-| Read 06: Authentication              | [Authentication](Amman-Code-401/read06.md)                               |
-| Read 07: Bearer Authorization        | [Bearer Authorization](Amman-Code-401/read07.md)                         |
-| Read 08: Access Control (ACL)        | [Access Control (ACL)](Amman-Code-401/read08.md)                         |
-| Read 09: OAuth                       | [OAuth](Amman-Code-401/read09.md)                                        |
-| Read 10: Stack and Queues            | [Stack and Queues](Amman-Code-401/read10.md)                             |
-| Read 11: Event Driven Applications   | [Event Driven Applications](Amman-Code-401/read11.md)                    |
-| Read 12: WebSocket                   | [WebSocket](Amman-Code-401/read12.md)                                    |
-| Read 13: Message Queues              | [Message Queues](Amman-Code-401/read13.md)                               |
-| Read 14: Event Driven Architecture   | [Event Driven Architecture](Amman-Code-401/read14.md)                    |
-| Read 15: Trees                       | [Trees](Amman-Code-401/read15.md)                                        |
-| Read 16: AWS: Cloud Servers          | [AWS: Cloud Servers](Amman-Code-401/read16.md)                           |
-| Read 17: AWS: S3 and Lambda          | [AWS: S3 and Lambda](Amman-Code-401/read17.md)                           |
-| Read 18: AWS: API, Dynamo and Lambda | [AWS: API, Dynamo and Lambda](Amman-Code-401/read18.md)                  |
-| Read 19: AWS: Events                 | [AWS: SQS vs SNS](Amman-Code-401/read19.md)                              |
-| Read 26: Component Based UI          | [Component Based UI](Amman-Code-401/read26.md)                           |
-| Read 27: Props and State             | [Props and State](Amman-Code-401/read27.md)                              |
-| Read 28: Component Composition       | [Component Composition](Amman-Code-401/read28.md)                        |
-| Read 29: React Routing               | [React Routing](Amman-Code-401/read29.md)                                |
-| Read 30: Hash Maps                   | [Hash Maps](Amman-Code-401/read30.md)                                    |
-| Read 31: Hooks API                   | [Hooks API](Amman-Code-401/read31.md)                                    |
-| Read 32: Custom Hooks                | [Custom Hooks](Amman-Code-401/read32.md)                                 |
-| Read 33: Context API                 | [Context API](Amman-Code-401/read33.md)                                  |
-| Read 34: Role-based access control   | [Role-based access control](Amman-Code-401/read34.md)                    |
-| Read 34: Graph Data Structure        | [Graph Data Structure](Amman-Code-401/read35.md)                         |
+| Class                                 | Links                                                                    |
+| ------------------------------------- | ------------------------------------------------------------------------ |
+| Prep Read: Get Ready for 401          | [THINK LIKE PROGRAMMERS AND PROBLEM SOLVING](Amman-Code-401/propread.md) |
+| Read 01: Node Ecosystem, TDD, CI/CD   | [Review, Research, and Discussion](Amman-Code-401/read01.md)             |
+| Read 02: Express                      | [Express](Amman-Code-401/read02.md)                                      |
+| Read 03: Express REST API             | [Express REST API](Amman-Code-401/read03.md)                             |
+| Read 04: Data Modeling                | [Data Modeling](Amman-Code-401/read04.md)                                |
+| Read 05: Linked Lists                 | [Linked Lists](Amman-Code-401/read05.md)                                 |
+| Read 06: Authentication               | [Authentication](Amman-Code-401/read06.md)                               |
+| Read 07: Bearer Authorization         | [Bearer Authorization](Amman-Code-401/read07.md)                         |
+| Read 08: Access Control (ACL)         | [Access Control (ACL)](Amman-Code-401/read08.md)                         |
+| Read 09: OAuth                        | [OAuth](Amman-Code-401/read09.md)                                        |
+| Read 10: Stack and Queues             | [Stack and Queues](Amman-Code-401/read10.md)                             |
+| Read 11: Event Driven Applications    | [Event Driven Applications](Amman-Code-401/read11.md)                    |
+| Read 12: WebSocket                    | [WebSocket](Amman-Code-401/read12.md)                                    |
+| Read 13: Message Queues               | [Message Queues](Amman-Code-401/read13.md)                               |
+| Read 14: Event Driven Architecture    | [Event Driven Architecture](Amman-Code-401/read14.md)                    |
+| Read 15: Trees                        | [Trees](Amman-Code-401/read15.md)                                        |
+| Read 16: AWS: Cloud Servers           | [AWS: Cloud Servers](Amman-Code-401/read16.md)                           |
+| Read 17: AWS: S3 and Lambda           | [AWS: S3 and Lambda](Amman-Code-401/read17.md)                           |
+| Read 18: AWS: API, Dynamo and Lambda  | [AWS: API, Dynamo and Lambda](Amman-Code-401/read18.md)                  |
+| Read 19: AWS: Events                  | [AWS: SQS vs SNS](Amman-Code-401/read19.md)                              |
+| Read 26: Component Based UI           | [Component Based UI](Amman-Code-401/read26.md)                           |
+| Read 27: Props and State              | [Props and State](Amman-Code-401/read27.md)                              |
+| Read 28: Component Composition        | [Component Composition](Amman-Code-401/read28.md)                        |
+| Read 29: React Routing                | [React Routing](Amman-Code-401/read29.md)                                |
+| Read 30: Hash Maps                    | [Hash Maps](Amman-Code-401/read30.md)                                    |
+| Read 31: Hooks API                    | [Hooks API](Amman-Code-401/read31.md)                                    |
+| Read 32: Custom Hooks                 | [Custom Hooks](Amman-Code-401/read32.md)                                 |
+| Read 33: Context API                  | [Context API](Amman-Code-401/read33.md)                                  |
+| Read 34: Role-based access control    | [Role-based access control](Amman-Code-401/read34.md)                    |
+| Read 35: Graph Data Structure         | [Graph Data Structure](Amman-Code-401/read35.md)                         |
+| Read 36: Application State with Redux | [Application State with Redux](Amman-Code-401/read36.md)                 |

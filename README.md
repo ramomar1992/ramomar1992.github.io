@@ -96,3 +96,4 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 34: Role-based access control    | [Role-based access control](Amman-Code-401/read34.md)                    |
 | Read 35: Graph Data Structure         | [Graph Data Structure](Amman-Code-401/read35.md)                         |
 | Read 36: Application State with Redux | [Application State with Redux](Amman-Code-401/read36.md)                 |
+| Read 37: Redux - Combined Reducers    | [Redux - Combined Reducers](Amman-Code-401/read37.md)                    |

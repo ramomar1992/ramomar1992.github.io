@@ -97,3 +97,4 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 35: Graph Data Structure         | [Graph Data Structure](Amman-Code-401/read35.md)                         |
 | Read 36: Application State with Redux | [Application State with Redux](Amman-Code-401/read36.md)                 |
 | Read 37: Redux - Combined Reducers    | [Redux - Combined Reducers](Amman-Code-401/read37.md)                    |
+| Read 38: Redux - Thunk                | [Redux - Thunk](Amman-Code-401/read38.md)                                |

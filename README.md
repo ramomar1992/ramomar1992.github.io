@@ -99,3 +99,5 @@ This website is a collective database to my reading notes throughout my journey 
 | Read 37: Redux - Combined Reducers   | [Redux - Combined Reducers](Amman-Code-401/read37.md)                    |
 | Read 38: Redux - Thunk               | [Redux - Thunk](Amman-Code-401/read38.md)                                |
 | Read 39: Redux - Tool-kit            | [Redux - Tool-kit](Amman-Code-401/read39.md)                             |
+| Read 41: React-Native                | [React-Native](Amman-Code-401/read41.md)                                 |
+| Read 42: Ethics in Technology        | [Ethics in Technology](Amman-Code-401/read42.md)                         |
